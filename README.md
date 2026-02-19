@@ -4,22 +4,6 @@
 
 This repository contains **Java Programming Lab practicals** covering fundamental and intermediate concepts, including **OOP, file handling, exception handling, and database connectivity using JDBC**. It also includes a mini-project demonstrating practical implementation of learned concepts.
 
----
-
-## 📂 Repository Structure
-
-Java-Practicals/
-├─ Practical1_Java_Installation/
-├─ Practical2_Class_Object_Methods/
-├─ Practical3_Calculator/
-├─ Practical4_Search_Sort/
-├─ Practical5_Inheritance/
-├─ Practical6_Polymorphism/
-├─ Practical7_Exception_Handling/
-├─ Practical8_File_Handling/
-├─ Practical9_JDBC_Connectivity/
-└─ Mini_Project/
-
 
 ---
 
