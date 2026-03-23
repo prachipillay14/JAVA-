@@ -1,5 +1,6 @@
 public class PRACTICAL1 {
 
+
 public static void main(String[] args) {
 int rollNo = 14;
 float per = 98.5f;
