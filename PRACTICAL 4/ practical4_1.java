@@ -1,5 +1,4 @@
 package PRACTICAL4;
-
 public class practical4_1 {
      public static void main(String[] args) {
         int a[] = {5, 3, 1, 4, 2};
