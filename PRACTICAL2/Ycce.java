@@ -1,5 +1,4 @@
 package PRACTICAL2;
-
 public class Ycce {
 
     String collegeName = "YCCE";
