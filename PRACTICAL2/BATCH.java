@@ -1,7 +1,6 @@
 package PRACTICAL2;
 
 public class BATCH {
-
     int batchno;
     String course;
     String teacher;
