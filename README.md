@@ -1,6 +1,6 @@
 # ☕ Java Programming Practicals
 
-![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Practicals-blue) ![License](https://img.shields.io/badge/License-MIT-green)
+![Java](https://img.shields.io/badge/Java-17-orange?logo=java&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-Practicals-blue) 
 
 This repository contains **Java Programming Lab practicals** covering fundamental and intermediate concepts, including **OOP, file handling, exception handling, and database connectivity using JDBC**. It also includes a mini-project demonstrating practical implementation of learned concepts.
 
